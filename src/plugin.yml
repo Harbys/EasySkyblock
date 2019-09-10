@@ -1,0 +1,16 @@
+name: EasySkyblock
+version: 1.3
+author: Harbys
+main: ml.harbysmc.easyskyblock.Main
+description: EasySkyblock
+api-version: 1.13
+
+commands:
+  skyblock:
+  skyblockadd:
+  skyblockremove:
+  ulepsz:
+  stonemaker:
+  setskyblockspawn:
+  skyblockspawn:
+  sklep:
