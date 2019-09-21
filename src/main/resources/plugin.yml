@@ -1,0 +1,16 @@
+name: EasySkyBlock
+version: ${project.version}
+main: ml.harbysmc.easyskyblock.Main
+api-version: '1.13'
+authors: [Harbys, Bjornskjald]
+
+commands:
+  is:
+    description: /is
+    usage: /is
+  ulepsz:
+    description: ulepsza StoneMaker
+    usage: /ulepsz
+  stonemaker:
+    description: craftuje StoneMaker
+    usage: /stonemaker
